@@ -1,0 +1,46 @@
+{
+    "nome": "Universidade de natal",
+    "curso": "Engenharia Mecatronica",
+    "infor": {
+      "coordenador": "Maria da Silva",
+      "endereco": "Avenida Bernado Vieira",
+      "contato": {
+        "email": "maria@hotmail.com",
+        "tel": "987654321"
+      }
+    },
+    "estudantes": [
+    {
+        "id": "A004",
+        "nome": "Lais",
+        "idade": 19,
+        "email": "lais@gmail.com",
+        "notas": {
+            "matematica": 10,
+            "fisica": 100,
+            "quimica": 100
+        }
+    },
+    {
+        "id": "A005",
+        "nome": "thiago",
+        "idade": 28,
+        "email": "thiago@gmail.com",
+        "notas": {
+            "matematica": 10,
+            "fisica": 88,
+            "quimica": 95
+        }
+    },
+    {
+        "id": "A006",
+        "nome": "May",
+        "idade": 18,
+        "email": "May@gmail.com",
+        "notas": {
+            "matematica": 100,
+            "fisica": 100,
+            "quimica": 100
+        }
+    }]
+}

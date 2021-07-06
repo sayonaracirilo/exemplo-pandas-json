@@ -1,0 +1,46 @@
+{
+    "nome": "Universidade de natal",
+    "curso": "Engenharia de Computacao",
+    "infor": {
+      "coordenador": "Jose da Silva",
+      "endereco": "Avenida Senador Salgado Filho",
+      "contato": {
+        "email": "jose@hotmail.com",
+        "tel": "123456789"
+      }
+    },
+    "estudantes": [
+    {
+        "id": "A001",
+        "nome": "Joao",
+        "idade": 20,
+        "email": "joao@gmail.com",
+        "notas": {
+            "matematica": 79,
+            "fisica": 90,
+            "quimica": 78
+        }
+    },
+    {
+        "id": "A002",
+        "nome": "Pedro",
+        "idade": 24,
+        "email": "pedro@gmail.com",
+        "notas": {
+            "matematica": 75,
+            "fisica": 50,
+            "quimica": 25
+        }
+    },
+    {
+        "id": "A003",
+        "nome": "Maira",
+        "idade": 23,
+        "email": "Maira@gmail.com",
+        "notas": {
+            "matematica": 25,
+            "fisica": 55,
+            "quimica": 15
+        }
+    }]
+}
